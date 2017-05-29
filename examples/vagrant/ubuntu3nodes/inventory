@@ -1,8 +1,8 @@
 [nodes]
-13.70.151.126 city=London legal_name="Corda Node 1" email_address=test@test.net role=node
+13.70.145.80 city=London legal_name="Corda Node 1" email_address=test@test.net role=node
 
 [notary]
-13.70.151.126 city=Paris legal_name="Corda Node 2 (Notary)" email_address=test@test.net  role=notary
+13.70.156.168 city=Paris legal_name="Corda Node 2 (Notary)" email_address=test@test.net  role=notary
 
 [nameserver]
 13.70.151.126 city="Wroclaw" legal_name="Corda Network Map" email_address=test@test.net  role=networkmap
